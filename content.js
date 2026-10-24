@@ -80,6 +80,36 @@ const SITE = {
       "logo": "assets/clients/574905912-1375428307473781-34834358-mvmbrmq9.jpg",
       "url": "https://raw-kitchens.com/",
       "project": "https://drive.google.com/file/d/1vPMbyFeZd-yrAHqKHwoYypF8YQf0qpm-/view?usp=sharing"
+    },
+    {
+      "name": "فندق آفينو العرب - Avenue Al Arab Hotel",
+      "logo": "assets/clients/466178143-122107036778606276-886761-mvmet7x7.jpg",
+      "url": "",
+      "project": ""
+    },
+    {
+      "name": "Antika Radio",
+      "logo": "assets/clients/482235760-1148603777279383-42644372-mvmewveb.jpg",
+      "url": "",
+      "project": ""
+    },
+    {
+      "name": "Fady El Fahdy - فادي الفهدي﻿",
+      "logo": "assets/clients/459923832-122093793080537078-529815-mvmey2uf.jpg",
+      "url": "",
+      "project": "https://docs.google.com/document/d/1dbTu-RntWPwnzlvG2DXg7-BQ5YVr8lGJHh07CbHOOhw/edit?tab=t.0"
+    },
+    {
+      "name": "Beeviro ",
+      "logo": "assets/clients/435988278-122102398742266874-723167-mvmf1m7f.jpg",
+      "url": "",
+      "project": "https://www.facebook.com/share/v/1HqoiUinRE/"
+    },
+    {
+      "name": "Social Flycatcher",
+      "logo": "assets/clients/470584261-559350880408513-764410998-mvmf6gbq.jpg",
+      "url": "",
+      "project": ""
     }
   ],
   "projects": [
